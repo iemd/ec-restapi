@@ -1,0 +1,666 @@
+[10-Aug-2017 10:01:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/condoa2u/public_html/erachat/src/routes.php on line 1029
+[10-Aug-2017 11:29:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:30:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:40:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:42:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:42:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:43:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:44:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:44:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:44:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:47:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:49:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:52:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:52:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:53:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:54:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:55:06 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:55:36 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 11:58:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 12:02:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 12:02:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 12:03:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 12:07:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 12:31:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 12:33:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 12:33:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 13:05:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[10-Aug-2017 13:07:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[11-Aug-2017 06:03:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/condoa2u/public_html/erachat/src/routes.php on line 1029
+[11-Aug-2017 06:48:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/condoa2u/public_html/erachat/src/routes.php on line 1029
+[11-Aug-2017 07:03:31 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1188
+[11-Aug-2017 07:08:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/condoa2u/public_html/erachat/src/routes.php on line 1029
+[11-Aug-2017 09:01:13 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 59
+[11-Aug-2017 10:15:34 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1023
+[11-Aug-2017 10:16:25 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1041
+[11-Aug-2017 10:16:38 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1041
+[11-Aug-2017 10:16:43 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1041
+[11-Aug-2017 10:16:44 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1041
+[11-Aug-2017 10:16:45 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1041
+[11-Aug-2017 10:16:49 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1041
+[11-Aug-2017 10:16:52 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1041
+[11-Aug-2017 10:20:07 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:14 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:14 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:15 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:15 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:24 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:34 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:41 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:43 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:45 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:20:50 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:21:37 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:21:53 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:08 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:13 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:21 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:24 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:29 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:35 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:40 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:22:56 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:23:04 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:23:11 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:25:57 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:29:04 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:29:56 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:29:56 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:29:59 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:29:59 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:02 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:02 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:05 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:05 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:24 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:24 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:29 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:32 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:32 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:35 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:35 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:38 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:38 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:43 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:43 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:46 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:46 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:49 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:49 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:30:52 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:30:52 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:33:17 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:33:17 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:33:40 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:33:40 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:33:47 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:33:47 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:33:56 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:33:56 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:34:05 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:34:05 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:34:20 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:34:20 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:34:25 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:34:25 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:34:29 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:34:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:34:50 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:34:50 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:35:01 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:35:01 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:35:04 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:35:04 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:35:09 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:35:09 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:35:13 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:35:13 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:35:33 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1042
+[11-Aug-2017 10:35:33 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 10:37:21 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1045
+[11-Aug-2017 12:33:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1352
+[11-Aug-2017 12:33:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1352
+[11-Aug-2017 16:03:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 60372283 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Stream.php on line 426
+[11-Aug-2017 16:42:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 60372283 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Stream.php on line 426
+[11-Aug-2017 20:18:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 60387151 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Stream.php on line 426
+[11-Aug-2017 20:18:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 60372283 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Stream.php on line 426
+[11-Aug-2017 20:23:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 60387151 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Stream.php on line 426
+[14-Aug-2017 04:55:16 UTC] PHP Parse error:  syntax error, unexpected '$json' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 1262
+[14-Aug-2017 04:55:20 UTC] PHP Parse error:  syntax error, unexpected '$json' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 1262
+[14-Aug-2017 05:14:38 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1264
+[14-Aug-2017 05:48:26 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:48:32 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:48:43 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:49:21 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:49:50 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:49:55 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:50:20 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:50:47 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:50:49 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:51:00 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:52:20 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1606
+[14-Aug-2017 05:58:20 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1608
+[14-Aug-2017 05:58:36 UTC] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/condoa2u/public_html/erachat/src/routes.php on line 1608
+[14-Aug-2017 06:42:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1359
+[14-Aug-2017 06:42:56 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1359
+[14-Aug-2017 06:43:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1359
+[14-Aug-2017 06:43:00 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1359
+[14-Aug-2017 06:43:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1359
+[14-Aug-2017 06:43:06 UTC] PHP Warning:  in_array() expects parameter 2 to be array, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 1359
+[17-Aug-2017 06:41:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 06:50:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:00:07 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:00:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:01:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:05:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:10:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:10:40 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:12:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:13:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:16:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:19:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:21:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:33:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:37:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:41:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:42:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:42:35 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:42:42 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:42:43 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:42:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:03 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:05 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:06 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:07 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:08 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:25 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:28 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:43:30 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1299
+[17-Aug-2017 07:46:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 07:54:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 32 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 11:38:57 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 11:39:03 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 11:40:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 72 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[17-Aug-2017 12:50:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:50:48 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:50:48 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:50:48 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:50:52 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:50:52 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:50:52 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:50:52 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:51:27 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:51:27 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:51:27 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:51:27 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:51:29 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:51:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:51:29 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:51:29 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:51:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:51:42 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:51:42 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:51:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:04 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:52:04 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:52:04 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:04 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:52:06 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:52:06 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:07 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:52:07 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:52:07 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:07 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:52:18 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:52:18 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:52:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:56:54 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[17-Aug-2017 12:56:54 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[17-Aug-2017 12:56:54 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[17-Aug-2017 12:56:54 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[18-Aug-2017 04:24:29 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[18-Aug-2017 04:24:29 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[18-Aug-2017 04:24:29 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[18-Aug-2017 04:24:29 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[18-Aug-2017 04:24:43 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2222
+[18-Aug-2017 04:24:43 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2224
+[18-Aug-2017 04:24:43 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[18-Aug-2017 04:24:43 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2228
+[18-Aug-2017 05:00:08 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2223
+[18-Aug-2017 05:00:08 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2225
+[18-Aug-2017 05:00:08 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2229
+[18-Aug-2017 05:00:08 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2229
+[18-Aug-2017 05:00:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2223
+[18-Aug-2017 05:00:16 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2225
+[18-Aug-2017 05:00:16 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2229
+[18-Aug-2017 05:00:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2229
+[18-Aug-2017 10:16:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2223
+[18-Aug-2017 10:16:42 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2225
+[18-Aug-2017 10:16:42 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 2229
+[18-Aug-2017 10:16:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 2229
+[18-Aug-2017 10:32:43 UTC] PHP Parse error:  syntax error, unexpected '$receiver_name' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2306
+[18-Aug-2017 10:33:09 UTC] PHP Parse error:  syntax error, unexpected '$receiver_name' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2306
+[18-Aug-2017 10:33:17 UTC] PHP Parse error:  syntax error, unexpected '$receiver_name' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2306
+[18-Aug-2017 10:33:42 UTC] PHP Parse error:  syntax error, unexpected '$receiver_name' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2306
+[18-Aug-2017 10:34:16 UTC] PHP Parse error:  syntax error, unexpected '$receiver_name' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2306
+[18-Aug-2017 10:35:43 UTC] PHP Parse error:  syntax error, unexpected '$receiver_name' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2306
+[19-Aug-2017 04:53:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 61011558 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Stream.php on line 426
+[19-Aug-2017 08:51:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/condoa2u/public_html/erachat/src/routes.php on line 2429
+[19-Aug-2017 08:51:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/condoa2u/public_html/erachat/src/routes.php on line 2429
+[19-Aug-2017 08:51:55 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/condoa2u/public_html/erachat/src/routes.php on line 2429
+[22-Aug-2017 05:34:15 UTC] PHP Fatal error:  Call to a member function fetch() on null in /home/condoa2u/public_html/erachat/src/routes.php on line 2265
+[22-Aug-2017 09:56:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 1036
+[22-Aug-2017 09:56:34 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 1571
+[22-Aug-2017 10:21:18 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:21:19 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:21:51 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:21:59 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:22:06 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:22:13 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:22:35 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:22:42 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:22:47 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:23:03 UTC] PHP Parse error:  syntax error, unexpected '%' in /home/condoa2u/public_html/erachat/src/routes.php on line 2490
+[22-Aug-2017 10:23:10 UTC] PHP Fatal error:  Call to undefined method PDOStatement::bind_param() in /home/condoa2u/public_html/erachat/src/routes.php on line 2492
+[24-Aug-2017 10:31:32 UTC] PHP Fatal error:  Call to undefined function fetchAll() in /home/condoa2u/public_html/erachat/src/routes.php on line 2836
+[24-Aug-2017 10:32:51 UTC] PHP Fatal error:  Call to undefined function fetchAll() in /home/condoa2u/public_html/erachat/src/routes.php on line 2836
+[24-Aug-2017 10:59:04 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2849
+[24-Aug-2017 10:59:04 UTC] PHP Warning:  deg2rad() expects parameter 1 to be double, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 2850
+[25-Aug-2017 08:30:10 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1264
+[28-Aug-2017 06:37:43 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:37:50 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:37:55 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:38:31 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:38:34 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:38:41 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:38:52 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:39:46 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[28-Aug-2017 06:42:01 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/condoa2u/public_html/erachat/templates/index.phtml on line 33
+[30-Aug-2017 12:19:07 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[30-Aug-2017 12:19:07 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[30-Aug-2017 12:19:07 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[30-Aug-2017 12:19:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 12:19:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 12:19:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 12:19:27 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 13:07:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[30-Aug-2017 13:07:58 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[30-Aug-2017 13:07:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[30-Aug-2017 13:08:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 13:08:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 13:08:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 13:08:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 13:08:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[30-Aug-2017 13:08:07 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:12:34 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[31-Aug-2017 12:12:34 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 12:12:34 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 12:12:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:12:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:12:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:12:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:12:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:12:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:12:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[31-Aug-2017 12:13:28 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 12:13:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 12:13:36 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/condoa2u/public_html/erachat/src/routes.php on line 1746
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:13:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 12:15:01 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[31-Aug-2017 12:15:01 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 12:15:01 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 13:00:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[31-Aug-2017 13:00:41 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 13:00:41 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[31-Aug-2017 13:02:17 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[31-Aug-2017 13:02:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 04:43:54 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 04:43:54 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 04:43:54 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 04:44:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 04:44:04 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 04:44:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 04:44:58 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:24:13 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 05:24:13 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:24:13 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:26:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:26:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:26:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:26:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:26:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:26:37 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:26:42 UTC] PHP Warning:  array_search() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1626
+[01-Sep-2017 05:26:42 UTC] PHP Warning:  array_values() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1628
+[01-Sep-2017 05:27:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:27:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:27:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:27:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:27:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:27:12 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1255
+[01-Sep-2017 05:27:22 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:27:22 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:27:24 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 05:27:24 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:27:24 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:27:47 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:27:47 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:28:42 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:28:42 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:31:19 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:31:19 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:34:40 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:34:40 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:34:47 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:34:47 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:37:40 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:37:40 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:38:17 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:38:17 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1107
+[01-Sep-2017 05:39:53 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:41:59 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:42:01 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:44:03 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:44:11 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:44:30 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:44:30 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:44:30 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:44:30 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:44:47 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:44:47 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:44:47 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:44:47 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:48:11 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:48:11 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:48:11 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:48:11 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:48:26 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:48:26 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:48:26 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:48:26 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:48:58 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:48:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:48:58 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:48:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:49:06 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:49:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:49:06 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:49:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:49:45 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:49:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, string given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:49:45 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:49:45 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:50:17 UTC] PHP Warning:  explode() expects at least 2 parameters, 1 given in /home/condoa2u/public_html/erachat/src/routes.php on line 1033
+[01-Sep-2017 05:50:17 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:50:17 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:51:46 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:51:46 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:51:53 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:51:53 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1108
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:52:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1256
+[01-Sep-2017 05:59:58 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 05:59:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 06:01:58 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 06:01:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1102
+[01-Sep-2017 06:03:21 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 06:03:21 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 06:03:58 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 06:03:58 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 06:04:04 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 06:04:04 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1101
+[01-Sep-2017 06:24:49 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1071
+[01-Sep-2017 06:24:49 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1071
+[01-Sep-2017 06:33:18 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1071
+[01-Sep-2017 06:33:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1071
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:20 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:34:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1221
+[01-Sep-2017 06:36:18 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1069
+[01-Sep-2017 06:36:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1069
+[01-Sep-2017 06:38:10 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1069
+[01-Sep-2017 06:38:10 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1069
+[01-Sep-2017 06:49:13 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:49:13 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:50:37 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1423
+[01-Sep-2017 06:50:37 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/condoa2u/public_html/erachat/src/routes.php on line 1423
+[01-Sep-2017 06:52:16 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:52:16 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:54:00 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:54:00 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:57:06 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:57:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:57:17 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 06:57:17 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1068
+[01-Sep-2017 07:09:38 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/condoa2u/public_html/erachat/src/routes.php on line 1711
+[01-Sep-2017 07:09:42 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/condoa2u/public_html/erachat/src/routes.php on line 1711
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 07:09:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1220
+[01-Sep-2017 09:40:19 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:40:22 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:42:46 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:42:49 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:42:58 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING) in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:44:42 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:44:49 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:44:52 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:45:04 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:46:41 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[01-Sep-2017 09:46:43 UTC] PHP Parse error:  syntax error, unexpected '"'"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/condoa2u/public_html/erachat/src/routes.php on line 1204
+[05-Sep-2017 07:39:18 UTC] PHP Fatal error:  Call to a member function fetchAll() on null in /home/condoa2u/public_html/erachat/src/routes.php on line 1269
+[05-Sep-2017 08:00:36 UTC] PHP Fatal error:  Call to a member function fetchAll() on null in /home/condoa2u/public_html/erachat/src/routes.php on line 1269
+[05-Sep-2017 08:38:15 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 08:40:11 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 08:40:21 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 08:41:09 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 08:41:23 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 08:41:30 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 08:41:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 08:41:54 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:43:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:43:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:43:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:43:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:43:13 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:49:31 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:51:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:51:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:51:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 09:51:57 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/condoa2u/public_html/erachat/src/routes.php on line 1279
+[05-Sep-2017 12:17:37 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2469
+[05-Sep-2017 12:17:40 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2469
+[05-Sep-2017 12:18:23 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2469
+[05-Sep-2017 12:18:44 UTC] PHP Parse error:  syntax error, unexpected '$search' (T_VARIABLE) in /home/condoa2u/public_html/erachat/src/routes.php on line 2469
+[06-Sep-2017 09:17:34 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[06-Sep-2017 09:17:40 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[06-Sep-2017 09:19:53 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[06-Sep-2017 09:20:00 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[06-Sep-2017 09:29:07 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[06-Sep-2017 11:34:45 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[06-Sep-2017 11:54:45 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 05:53:40 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 05:53:52 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 06:54:11 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 06:54:27 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 07:21:53 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 07:25:14 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 07:25:18 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 08:59:25 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 08:59:34 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 09:13:16 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 09:15:29 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 09:15:36 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 09:15:44 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 12:44:25 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 12:56:19 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 12:56:40 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 12:58:18 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[07-Sep-2017 13:01:06 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:05:18 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:05:29 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:05:57 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:25:30 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:26:13 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:26:25 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:29:02 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:29:12 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:29:44 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:30:17 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:33:23 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:33:38 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:35:03 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:35:04 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:35:05 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:35:13 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:35:21 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:35:35 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:36:11 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:38:12 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:41:48 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:45:45 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:47:42 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:49:00 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:50:45 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:51:35 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:52:30 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:54:21 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:56:23 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:56:40 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:57:04 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:59:17 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 05:59:33 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[08-Sep-2017 06:04:53 UTC] PHP Warning:  base64_decode() expects parameter 1 to be string, array given in /home/condoa2u/public_html/erachat/src/routes.php on line 1666
+[11-Sep-2017 08:45:39 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5024673 bytes) in /home/condoa2u/public_html/erachat/vendor/slim/slim/Slim/Http/Request.php on line 205
+[13-Sep-2017 07:23:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 475
+[13-Sep-2017 07:23:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 602
+[13-Sep-2017 07:24:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 2578
+[13-Sep-2017 07:24:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 2578
+[13-Sep-2017 07:24:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 2578
+[26-Sep-2017 11:48:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 2379
+[26-Sep-2017 12:11:04 UTC] PHP Parse error:  syntax error, unexpected 'error' (T_STRING) in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[26-Sep-2017 12:22:38 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 2578
+[26-Sep-2017 12:23:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 1400
+[27-Sep-2017 09:24:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/condoa2u/public_html/erachat/src/routes.php on line 460
+[27-Sep-2017 09:37:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2906
+[27-Sep-2017 09:49:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:53:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:54:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:54:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:55:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:56:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:56:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:56:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:56:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:56:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:56:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:57:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:57:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 09:57:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2910
+[27-Sep-2017 10:00:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:00:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:01:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:01:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:01:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:02:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:02:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:05:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:05:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:05:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:13:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:13:32 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2912
+[27-Sep-2017 10:13:32 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2931
+[27-Sep-2017 10:13:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:13:51 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2912
+[27-Sep-2017 10:13:51 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2931
+[27-Sep-2017 10:14:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:14:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2912
+[27-Sep-2017 10:14:43 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2931
+[27-Sep-2017 10:14:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:14:52 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2912
+[27-Sep-2017 10:14:52 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2931
+[27-Sep-2017 10:14:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:14:54 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2912
+[27-Sep-2017 10:14:54 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2931
+[27-Sep-2017 10:18:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:18:16 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2912
+[27-Sep-2017 10:18:16 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2931
+[27-Sep-2017 10:19:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:19:20 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2913
+[27-Sep-2017 10:19:20 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2932
+[27-Sep-2017 10:19:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:19:35 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2913
+[27-Sep-2017 10:19:35 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2932
+[27-Sep-2017 10:19:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:19:36 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2913
+[27-Sep-2017 10:19:36 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2932
+[27-Sep-2017 10:50:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/condoa2u/public_html/erachat/src/routes.php on line 2907
+[27-Sep-2017 10:50:40 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2913
+[27-Sep-2017 10:50:40 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, resource given in /home/condoa2u/public_html/erachat/src/routes.php on line 2932
+[27-Sep-2017 10:52:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:52:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:52:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:52:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:53:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:53:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:53:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:53:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:53:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:53:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[27-Sep-2017 10:53:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/condoa2u/public_html/erachat/src/routes.php on line 2911
+[03-Oct-2017 06:26:54 UTC] PHP Warning:  require(/home/condoa2u/public_html/erachat/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in /home/condoa2u/public_html/erachat/vendor/composer/autoload_real.php on line 66
+[03-Oct-2017 06:26:54 UTC] PHP Fatal error:  require(): Failed opening required '/home/condoa2u/public_html/erachat/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/condoa2u/public_html/erachat/vendor/composer/autoload_real.php on line 66
+[03-Oct-2017 10:20:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/condoa2u/public_html/erachat/src/routes.php on line 448
